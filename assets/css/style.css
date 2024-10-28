@@ -52,6 +52,9 @@ font-size: 1.2rem;
     min-height: 500px;
     padding: 5% 7%;
 }
+.buttom-style:hover {
+background-color: #1f7798;
+}
 /*Media queries*/
 
 /*Use Bootstrap breakpoint for XL-sceens*/
